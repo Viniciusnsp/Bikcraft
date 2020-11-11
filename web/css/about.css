@@ -1,0 +1,18 @@
+.interna-about {
+    background: url("../img/bg-sobre.jpg") no-repeat center;
+}
+
+.missao-about {
+    padding-top: 60px;
+}
+
+.missao-about p {
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 1em;
+    padding-right: 60px;
+}
+
+.foto-equipe {
+    padding-top: 40px;
+}

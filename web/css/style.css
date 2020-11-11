@@ -68,9 +68,6 @@ img {
     background: var(--color-yellow);
 }
 
-
-
-
 /* Header */
 
 .header {
@@ -149,6 +146,32 @@ img {
     font-weight: bold;
     font-size: 14px;
     letter-spacing: .1em;
+}
+
+/* Introdução interna */
+.introducao-interna {
+    width: 100%;
+    margin-top: 92px;
+    height: 160px;
+    background-size: cover;
+    text-align: center;
+    color: var(--color-white);
+    padding-top: 30px;
+}
+
+.introducao-interna h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.introducao-interna h1:after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background: var(--color-white);
+    margin: 6px auto 10px auto;
 }
 
 /* Produtos */
