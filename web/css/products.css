@@ -84,7 +84,7 @@
     background: var(--color-black);
     width: 100%;
     margin-top: 60px;
-    padding: 40px 0;
+
 }
 
 .orcamento h2 {
@@ -160,7 +160,7 @@
     font-family: Georgia, 'Times New Roman', serif;    
 }
 
-.dados .dados-email {
+.dados span:nth-of-type(2) {
     margin-bottom: 40px;
 }
 
